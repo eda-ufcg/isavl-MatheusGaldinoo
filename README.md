@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Matheus Galdino de Souza
+* Email (@ccc): matheus.galdino.souza@ccc.ufcg.edu.br
+* Matrícula: 123111147
 
 # Roteiro: isAVL
 
